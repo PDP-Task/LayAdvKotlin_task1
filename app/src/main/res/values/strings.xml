@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LayoutAdvancedKotlin_task1</string>
+    <string name="my_dashboard">My Dashboard</string>
+    <string name="google">Google</string>
+    <string name="pdp">PDP Academy</string>
+    <string name="meta">Meta</string>
+    <string name="Instagram">Instagram</string>
+    <string name="telegram">Telegram</string>
+    <string name="tiktok">Tik Tok</string>
+    <string name="snap">Snapchat</string>
+    <string name="twit">Twitter</string>
+</resources>
